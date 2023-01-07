@@ -1,0 +1,17 @@
+.h{
+    text-align: center;
+    padding: 40px;
+}
+/* .container{
+    padding: 20px;
+} */
+.row{
+  justify-content: space-between  ;
+
+}
+
+
+:hover.card{
+    transform: scale(1.1);
+    transition:all .4s ease;
+}
